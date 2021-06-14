@@ -1,0 +1,9 @@
+# sample adoc
+
+* the shown image 
+
+image::images/shown.svg[format="svg"]
+
+* the unshown image
+
+image::images/unshown.svg[format="svg"]
